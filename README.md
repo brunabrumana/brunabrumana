@@ -16,7 +16,6 @@ Bem vindo ao meu mundo digital 🌍
 <img align="center" height="30" width="25" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/azure/azure-original.svg" />
 <img align="center" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original-wordmark.svg" />
 </div>
-![Snake animation] (https://github.com/brunabrumana/brunabrumana/blob/output/github-contribution-grid-snake.svg)
 <br>
 Aqui você vai encontrar um pouco dos meus gostos e o que tenho aprendido. 
 Sempre amei tudo relacionado à computação. Depois de muita luta consegui me formar na área que eu amo, 
