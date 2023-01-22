@@ -1,6 +1,7 @@
 ## Olá! 👋
 <br>
 Bem vindo ao meu mundo digital 🌍
+<br>
 
 <div>
 <a href= "https://www.linkedin.com/in/bruna-brumana-563b25a5/">
@@ -15,6 +16,7 @@ Bem vindo ao meu mundo digital 🌍
 <img align="center" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original-wordmark.svg" />  
 <img align="center" height="30" width="25" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/azure/azure-original.svg" />
 <img align="center" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original-wordmark.svg" />
+          
 </div>
 <br>
 Aqui você vai encontrar um pouco dos meus gostos e o que tenho aprendido. 
@@ -25,6 +27,7 @@ Eu trabalhei por quase de 10 anos na área do administrativa de uma empresa do r
 Lá desenvolvi o desejo de conhecer e aprender mais sobre a área de tratamento de dados e como isso impacta na receita de uma empresa. 
 Embora eu seja muito versátil, sabendo desde de montar um computador à fazer um Croque-monsieur, 🍮
 me apaixonei por essa área e é nela que quero seguir. Então seja muito bem vindx e não precisa tirar o sapato.🤞
+
           
 --
 
@@ -39,4 +42,5 @@ I worked for almost 10 years in the administrative area of a company in the clot
 There I developed the desire to know and learn more about the data treatment area and how it impacts a company's revenue. 
 Although I am very versatile, knowing how to put together a computer to make a Croque-monsieur, 🍮
 I fell in love with this area and it is in it that I want to follow. So be very welcome and you don't need to take off your shoes.🤞
- ![Snake animation] (https://github.com/brunabrumana/brunabrumana/blob/output/github-contribution-grid-snake.svg)
+ 
+<img src="https://github.com/brunabrumana/brunabrumana/blob/output/github-contribution-grid-snake.svg"> 
