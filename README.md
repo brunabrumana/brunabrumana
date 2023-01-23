@@ -21,7 +21,7 @@ Bem vindo ao meu mundo digital 🌍
 <br>
 Aqui você vai encontrar um pouco dos meus gostos e o que tenho aprendido. 
 Sempre amei tudo relacionado à computação. Depois de muita luta consegui me formar na área que eu amo, 
-agora procuro trabalhar nisso. Talvez essa sua visita ajude te a ver como tenho evoluído em meus projetos. 
+agora procuro trabalhar nisso. Talvez essa sua visita ajude a ver como tenho evoluído em meus projetos. 
 Eu sempre fui muito autodidata, fui assim com violao, ukulele, html, e entre outras coisas.
 Eu trabalhei por quase de 10 anos na área do administrativa de uma empresa do ramo de roupas femininas. 
 Lá desenvolvi o desejo de conhecer e aprender mais sobre a área de tratamento de dados e como isso impacta na receita de uma empresa. 
